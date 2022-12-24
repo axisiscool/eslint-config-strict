@@ -1,4 +1,5 @@
 {
   "name": "eslint-config-strict",
+  "main": "default.js",
   "version": "1.0.0"
 }
